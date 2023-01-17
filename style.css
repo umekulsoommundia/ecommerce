@@ -1,0 +1,201 @@
+*{
+    font-family: 'Ropa Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+html ,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.navbar{
+
+
+    margin: 0;
+   height: 70px;
+
+}
+.bgcolor.scrolled{
+    background-color: rgb(54, 54, 54);
+    height: 80px;
+}
+#pix{
+    width: 100px;
+    height: 400px;
+}
+
+.mm{
+    text-decoration: none;
+    
+}
+
+.tag{
+    font-size: x-large;
+}
+
+.tag a:hover{
+    text-decoration: none;
+    font-weight: bolder;
+
+}
+.txt{
+    color: gray;
+}
+.txt:hover{
+    text-decoration: none;
+    color: gray;
+}
+.new{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ab{
+    font-weight: bolder;
+}
+.head{
+    font-size: x-large;
+    
+}
+
+.imsize{
+    width: 110px;
+    height: 120px;
+}
+/* .bagpack{
+    height: 400px;
+    width: 500px;
+} */
+
+    .txt{
+    
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    
+    }
+    .nav a:hover{
+        text-decoration: none;
+        font-weight: bolder;
+        color: white;
+    
+    }
+    /* .bannerr{
+        width: 640px;
+        position: relative;
+    } */
+    /* .img{
+        width: 20px;
+        height: 560px;
+    } */
+
+/* .banner{
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+}
+.banner a:hover{
+    text-decoration: none;
+}
+
+    .banner img{
+width: 600px;
+height: 960px;
+    } */
+
+.set{
+    position: absolute;
+    top: 70%;
+
+}
+
+.heading{
+    padding-left: 20px;
+    color: white;
+    font-size: 40px;
+    text-shadow: 5px 5px 10px #000000;
+}
+
+.sett{
+    position: absolute;
+    top: 30%;
+}
+.settt{
+    position: absolute;
+    top: 80%;
+}
+    /* .but{
+        margin-left: 450px;
+        margin-bottom: 230px;
+    } */
+
+    /* .bannerr{
+        position: relative;
+        width: 90%;
+       
+    }
+.bannerr img{
+    width: 600px;
+    height: 390px;
+}
+.sett{
+    position: absolute;
+    top: 70%;
+}
+
+.bannerrr{
+    position: relative;
+    width: 90%;
+   
+}
+.bannerrr img{
+    width: 600px;
+    height: 490px;
+}
+.settt{
+    position: absolute;
+    top: 70%;
+} */
+
+.log{
+    padding-left: 1100px;
+}
+
+.end{
+    padding-left: 130px;
+    
+}
+.end h1{
+    font-size:45px;
+}
+.end h4{
+    font-size: 15px;
+}
+
+.end button{
+    
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.tct{
+    color: gray;
+}
+.tct:hover{
+    text-decoration: none;
+    color: gray;
+}
+
+
+.head{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 70px;
+    padding-left: 30px;
+}
+.bgb{
+    height: 224px;
+    width: 170px;
+}
+
+
+
